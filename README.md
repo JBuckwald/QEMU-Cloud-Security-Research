@@ -1,7 +1,9 @@
 # Operational Detection of Guest-to-Host Compromise via QEMU Process Telemetry
 
 Joshua Buckwald
+
 MS Cybersecurity, NYU Tandon School of Engineering
+
 April 2026
 
 ## Overview
@@ -29,7 +31,7 @@ This project explores an alternative. Because the QEMU process is the first host
 
 | File | Description |
 |------|-------------|
-| [Research Paper (PDF)](./Operational_Detection_of_Guest_to_Host_Compromise_via_QEMU_Process_Telemetry.pdf) | Full academic paper with methodology, results, and references |
+| [Research Paper (PDF)](./Operational_Detection_of_Guest_to_Host_Compromise_via_QEMU_Process_Telemetry_04.26.26.pdf) | Full academic paper with methodology, results, and references |
 | [Presentation Slides (PDF)](./Operational-Detection-of-Guest-to-Host-Compromise-via-QEMU-Process-Telemetry.pdf) | Slide deck from the April 2026 course presentation |
 | [Presentation Video](https://youtu.be/zfGqwWraH0c) | Recorded walkthrough of the research and findings |
 
