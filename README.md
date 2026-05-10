@@ -1,12 +1,8 @@
-# QEMU-Cloud-Security-Research
-Research paper and presentation on defending against VM escape through host-side monitoring of the QEMU process.
-
-
 # Operational Detection of Guest-to-Host Compromise via QEMU Process Telemetry
 
-**Course:** MS Cybersecurity, NYU Tandon School of Engineering
-**Author:** Joshua Buckwald
-**Date:** April 2026
+Joshua Buckwald
+MS Cybersecurity, NYU Tandon School of Engineering
+April 2026
 
 ## Overview
 
